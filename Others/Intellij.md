@@ -29,7 +29,6 @@ Example:
 Tomcat Home:D:\apache-tomcat-8.0.35
 Tomcat base directory: D:\apache-tomcat-8.0.35
 ```
-4. Apply and close.
 
 ### Config Server for Project
 
@@ -53,7 +52,8 @@ Some of our projects need to be ran under unique server & port, so we need to se
 ### VCS Setup
 We need to setup version controls before start applying it to projects.
 1. `Settings` > `Version Control` > `Perforce`. You can refer to the images below. `Client` is your perforce workspace name, displaying in your perforce window's title.
-![vsc1_img](https://github.com/helisz/dict/_assets/images/vcs1.jpg)
+![vsc1_img](https://github.com/helisz/dict/blob/master/_asserts/images/vcs1.jpg)
+
 2. Save and close.
 ### Perforce Intergration
 1. Go to menu `VCS` > `Enable Version Control Intergration`, select `Perforce` in dropdown menu, then press `ok`.
@@ -79,7 +79,6 @@ Working Dir.:  	$ProjectFileDir$\WebContent\resources\scss
 Env. Var.: 		[BLANK]
 Output Path.: 	$FileNameWithoutExtension$.css:$FileNameWithoutExtension$.css.map
 ```
-4. Save and Close.
 
 Possible issue: `...Errno::EACCES: Permission denied @ rb_sysopen - ...`
 Solution: Go to perforce, and checkout related .css file.
