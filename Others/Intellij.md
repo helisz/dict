@@ -36,6 +36,7 @@ Tomcat base directory: D:\apache-tomcat-8.0.35
 2. In `Run/Debug Configurations` window, click green '+', Select `Tomcat Server` > `Local`
 3. In `Server` tab, default setting is far enough for uses.
 4. But the cat icon still being attached a red cross. Go to `Deployment` tab and select an Aritifact to deploy. Usually use `exploded` one.	
+5. Fill your project name into `Application Context`.
 5. Save and close.
 
 ### Config One Server for Multiple Project
@@ -44,7 +45,7 @@ Some of our projects need to be ran under unique server & port, so we need to se
 1. Follow the steps in previous instruction `Config Server for Project` to setup tomcat for Project A.
 2. Open Project B, open `Run/Debug Configurations`, after clicking the green `+`, choose `Tomcat` and `Remote`.
 3. Keep same port JMX Port, Port num and set Host to "localhost" by default.
-4. Don't forget to config `Deployment` tab, it's the same as previous.
+4. In `Deployment` tab, it's the same as previous, `Application Context` should be varied between projects.
 5. Save and close.
 
 ## Perforce 4V Configuration
