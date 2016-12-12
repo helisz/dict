@@ -18,7 +18,7 @@ If you have previously installed a version of gulp globally, please run npm rm -
 
 5. Create a gulpfile.js at the root of your project:
 Gulpfile.js
-```
+```javascript
 'use strict';
 
 var gulp 	= require('gulp');
@@ -61,7 +61,7 @@ Each time use `$ bower install [NAME] --save`, run gulpfile task again to apply.
 npm install gulp-sass --save-dev
 ```
 2. Add following js code into `gulpfile.js`
-```
+```javascript
 /** add dependency **/
 var sass = require('gulp-sass');
 
