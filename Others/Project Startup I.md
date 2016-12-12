@@ -37,7 +37,7 @@ Gulpfile.js
 	/** tasks **/
 	gulp.task('default', ['bower']);
 	``` 
-6. Running Gulp.js tasks  
+## Running Gulp.js tasks  
 ### with Terminal
 Use following command to execute the task
 	```
@@ -91,6 +91,7 @@ Use following command to execute the task
 ### Use File Watcher in IntelliJ
 1. `Settings` > `Tools` > `File Watchers`, click green `+`.
 2. Add a scss watcher, config as follows: 
+
 	```
 	Program:		C:\Ruby23-x64\bin\scss.bat
 	Arguments:		--no-cache --update $ProjectFileDir$\WebContent\resources\scss:$ProjectFileDir$\WebContent\resources\css
@@ -98,6 +99,7 @@ Use following command to execute the task
 	Env. Vars:		[EMPTY]
 	Output...: 		$ProjectFileDir$\WebContent\resources\css\$FileNameWithoutExtension$.css:$ProjectFileDir$\WebContent\resources\css\$FileNameWithoutExtension$.css.map
 	```
+
 3. Save and make sure it is ticked. Follow this file structure:
 	```
 	resources
