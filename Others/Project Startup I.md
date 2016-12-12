@@ -38,12 +38,12 @@ Gulpfile.js
 	gulp.task('default', ['bower']);
 	``` 
 6. Running Gulp.js tasks  
-#### with Terminal
+- with Terminal
 Use following command to execute the task
 	```
 	$ gulp [bower]
 	```
-#### with Startup Tasks function in IntelliJ
+- with Startup Tasks function in IntelliJ
 1. `Settings` > `Tools` > `Startup Tasks` , find green `+`, add a Gulp.js task. 
 2. `Gulpfile` need to be pointed to you gulpfile.js, and `Task` usually use `default`. Save and close.
 3. Now on right top task runner dropdown you will find gulpfile as a stand-along task. Click green arrow to run it.
@@ -54,7 +54,7 @@ Use following command to execute the task
 	``` 
 
 ## SASS Configuration
-#### Use Gulp.js
+- Use Gulp.js
 1. Intall gulp-sass
 	```
 	npm install gulp-sass --save-dev
@@ -87,8 +87,8 @@ Use following command to execute the task
 	```
 	$ gulp sass-watch
 	```   
-	
-#### Use File Watcher in IntelliJ
+
+- Use File Watcher in IntelliJ
 1. `Settings` > `Tools` > `File Watchers`, click green `+`.
 2. Add a scss watcher, config as follows: 
 	```
