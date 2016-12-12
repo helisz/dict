@@ -36,10 +36,8 @@ Gulpfile.js
 
 	/** tasks **/
 	gulp.task('default', ['bower']);
-	```
-
-6. Running Gulp.js tasks
-
+	``` 
+6. Running Gulp.js tasks  
 #### with Terminal
 Use following command to execute the task
 	```
@@ -53,7 +51,7 @@ Use following command to execute the task
 	```
 	WHEN YOU ADD PLUGINS,
 	Each time use `$ bower install [NAME] --save`, run gulpfile task again to apply.
-	```
+	``` 
 
 ## SASS Configuration
 #### Use Gulp.js
@@ -88,7 +86,8 @@ Use following command to execute the task
 3. In terminal, call the task name:
 	```
 	$ gulp sass-watch
-	```
+	```   
+	
 #### Use File Watcher in IntelliJ
 1. `Settings` > `Tools` > `File Watchers`, click green `+`.
 2. Add a scss watcher, config as follows: 
