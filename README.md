@@ -13,3 +13,4 @@ Dictionary
 
 * [OTHERS](https://github.com/helisz/dict/tree/master/Others)
 	* [IntelliJ](https://github.com/helisz/dict/blob/master/Others/Intellij.md)
+	* [Project Startup I](https://github.com/helisz/dict/blob/master/Others/Project%20Startup%20I.md)
