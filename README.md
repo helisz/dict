@@ -3,7 +3,7 @@ Dictionary
 
 
 * [FRONT-END](https://github.com/helisz/dict/tree/master/front-end/)
-	*[angularjs/$http POST/GET](https://github.com/helisz/dict/tree/master/front-end/angularjs/http-post-get.md)
+	* [angularjs/$http POST/GET](https://github.com/helisz/dict/tree/master/front-end/angularjs/http-post-get.md)
 
 * [BACK-END](https://github.com/helisz/dict/tree/master/back-end/)
 
