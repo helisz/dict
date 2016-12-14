@@ -3,8 +3,8 @@ Dictionary
 
 * [FRONT-END](https://github.com/helisz/dict/tree/master/front-end/)
 	* [sass](https://github.com/helisz/dict/tree/master/front-end/sass)
-	* [gulp](https://github.com/helisz/dict/tree/master/front-end/gulp)
-	* [angular-js](https://github.com/helisz/dict/tree/master/front-end/angularjs/http-post-get.md)
+	* [angularjs](https://github.com/helisz/dict/tree/master/front-end/gulp)
+	**[$http POST/GET](https://github.com/helisz/dict/tree/master/front-end/angularjs/http-post-get.md)
 
 * [BACK-END](https://github.com/helisz/dict/tree/master/back-end/)
 	* [java](https://github.com/helisz/dict/tree/master/back-end/java)
