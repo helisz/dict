@@ -10,3 +10,4 @@ Dictionary
 * [OTHERS](https://github.com/helisz/dict/tree/master/Others)
 	* [IntelliJ](https://github.com/helisz/dict/blob/master/Others/Intellij.md)
 	* [Project Startup I](https://github.com/helisz/dict/blob/master/others/project-startup-I.md)
+	* [Configuring HTML 5 Mode](https://github.com/helisz/dict/blob/master/others/angular-hash.md)
