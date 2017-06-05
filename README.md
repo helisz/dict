@@ -8,6 +8,11 @@ Dictionary
 
 * [BACK-END](https://github.com/helisz/dict/tree/master/back-end/)
 
+* [MANAGEMENT](https://github.com/helisz/dict/tree/master/project-management)
+	[Dist 20170605](https://github.com/helisz/dict/tree/master/project-management)
+	
 * [OTHERS](https://github.com/helisz/dict/tree/master/project)
 	* [Project Startup I](https://github.com/helisz/dict/blob/master/project/project-startup-I.md)
 	* [IntelliJ](https://github.com/helisz/dict/blob/master/project/Intellij.md)
+
+
