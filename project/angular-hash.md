@@ -1,5 +1,6 @@
 #Configuring HTML 5 mode
 
+
 AngularJS uses a “#” in it’s urls. HTML5Mode of AngularJS removes these “#” from URL.
 
 ##Activate HTML 5 Mode
