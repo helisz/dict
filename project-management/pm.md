@@ -1,4 +1,4 @@
-# Poject Management
+# Project Management
 
 [6 Phases of the Web Site Design and Development Process](http://www.idesignstudios.com/blog/web-design/phases-web-design-development-process/#.WTVxOxOGPfY)
 1. Information Gathering
