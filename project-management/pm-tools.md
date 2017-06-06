@@ -1,9 +1,6 @@
-# Dist
-LATEST UPDATE 2017/06/05
+# Project Management Tools Recommendations
 
-## Project Management Tools Recommendations
-
-### 1. Asana (Recommended)
+## 1. Asana (Recommended)
 [https://asana.com](https://asana.com/product)
 
 Asana is the easiest way for teams to track their work—and get results.
@@ -17,7 +14,7 @@ Asana is the easiest way for teams to track their work—and get results.
 
 
 
-### 2. tower.im
+## 2. tower.im
 [hhttps://hk.tower.im/](https://hk.tower.im/)
 
 * Merged most features among the whole pm market
@@ -25,7 +22,7 @@ Asana is the easiest way for teams to track their work—and get results.
 * Friendly on code sharing
 
 
-### 3. teambition
+## 3. teambition
 [https://www.teambition.com](https://www.teambition.com)
 
 
@@ -36,14 +33,14 @@ Asana is the easiest way for teams to track their work—and get results.
 
 
 
-## API Sharing
+# API Sharing
 
-### 1. EoLinker
+## 1. EoLinker
 [https://www.eolinker.com/](https://www.eolinker.com/#/index)
 
 Light-weighted API Management
 
-### 2. Swagger
+## 2. Swagger
 [http://swagger.io/](http://swagger.io/)
 
 Swagger is the world’s largest framework of API developer tools for the OpenAPI Specification(OAS), enabling development across the entire API lifecycle, from design and documentation, to test and deployment.

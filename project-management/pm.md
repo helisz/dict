@@ -1,4 +1,4 @@
-## Poject Management
+# Poject Management
 
 [6 Phases of the Web Site Design and Development Process](http://www.idesignstudios.com/blog/web-design/phases-web-design-development-process/#.WTVxOxOGPfY)
 1. Information Gathering
@@ -9,38 +9,38 @@
 6. Maintenance
 
 
-### 1.  Information Gathering
+## 1.  Information Gathering
 
 This first step is actually the most important one, as it involves a solid understanding of the company it is created for. It involves a good understanding of you – what your business goals and dreams are, and how the web can be utilized to help you achieve those goals.
 
-#### Purpose
+### Purpose
 What is the purpose of the site? Do you want to provide information, promote a service, sell a product… ?
-#### Goals
+### Goals
 What do you hope to accomplish by building this web site? Two of the more common goals are either to make money or share information.
-#### Target Audience
+### Target Audience
 Is there a specific group of people that will help you reach your goals? It is helpful to picture the “ideal” person you want to visit your web site. Consider their age, sex or interests – this will later help determine the best design style for your site.
-#### Content
+### Content
 What kind of information will the target audience be looking for on your site? Are they looking for specific information, a particular product or service, online ordering…?
 
 
-### 2. Planning
+## 2. Planning
 Using the information gathered from phase one, it is time to put together a plan for your web site. This is the point where a site map is developed.
 
 During the planning phase, web designer will also help you decide . Elements such as what CMS (content management system) such as WordPress to incorporate, will any contact forms be needed, etc. are discussed when planning your web site.
 
-#### Sitemap
+### Sitemap
 Sum up all the ideas and come up with a structured tree of all the informations included
 
-#### Technology
+### Technology
 What technologies should be implemented? Software, Hardware, Framework, Libraries, etc.
 
-#### Mockups
+### Mockups
 Designers provide mockups to have a global content-driven / flow driven concept of the whole project
 
-#### Content
+### Content
 All the necessary content
 
-#### Timeline
+### Timeline
 Desired timeline for completion
 
 ### 3. Design
