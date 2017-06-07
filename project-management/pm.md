@@ -43,7 +43,7 @@ All the necessary content
 ### Timeline
 Desired timeline for completion
 
-### 3. Design
+## 3. Design
 
 Drawing from the information gathered up to this point, it’s time to determine the look and feel of your site.
 
@@ -63,18 +63,18 @@ Web designer will create one or more prototype designs for web site. **It should
 * Site Maintenance Plan
 * Etc
 
-
-
 #### Requirements
 Big changes on requirements is not allowed after this stage, until the next large revision
 
-### 4. Development
+![ux_1](https://github.com/helisz/dict/blob/master/_asserts/images/ux1.jpg)
+
+## 4. Development
 
 The developmental stage is the point where the web site itself is created. At this time, your web designer will take all of the individual graphic elements from the prototype and use them to create the actual, functional site.
 
 This entire time, your designer should continue to make your in-progress web site available to you for viewing, so that you can suggest any additional changes or corrections you would like to have done.
 
-### 5. Testing and Delivery
+## 5. Testing and Delivery
 
 At this point, your web designer will attend to the final details and test your web site. 
 
