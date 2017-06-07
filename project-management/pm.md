@@ -45,8 +45,8 @@ Desired timeline for completion
 
 ## 3. Design
 
-
 [https://invis.io/VSC1MWG9F](https://invis.io/VSC1MWG9F)
+
 Drawing from the information gathered up to this point, it’s time to determine the look and feel of your site.
 
 In this phase, communication between departments and designer is crucial to ensure that the final web site will match our needs and taste.
@@ -86,6 +86,8 @@ At this point, your web designer will attend to the final details and test your 
 * Website optimization
 * SEO
 * etc.
+
+![ux_2](https://github.com/helisz/dict/blob/master/_asserts/images/ux2.png)
 
 ### 6. Maintenance
 
