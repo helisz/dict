@@ -49,10 +49,10 @@ Drawing from the information gathered up to this point, it’s time to determine
 
 In this phase, communication between departments and designer is crucial to ensure that the final web site will match our needs and taste.
 
-#### Designs
+### Designs
 Web designer will create one or more prototype designs for web site. **It should close to the final design**. 
 
-#### Documentations
+### Documentations
 * Sitemap (Detailed)
 * Flow or Logic Diagrams
 * CI specification
@@ -63,7 +63,7 @@ Web designer will create one or more prototype designs for web site. **It should
 * Site Maintenance Plan
 * Etc
 
-#### Requirements
+### Requirements
 Big changes on requirements is not allowed after this stage, until the next large revision
 
 ![ux_1](https://github.com/helisz/dict/blob/master/_asserts/images/ux1.png)
@@ -78,7 +78,7 @@ This entire time, your designer should continue to make your in-progress web sit
 
 At this point, your web designer will attend to the final details and test your web site. 
 
-#### Test
+### Test
 * the complete functionality 
 * compatibility
 * Website optimization
