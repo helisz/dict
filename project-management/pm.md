@@ -66,7 +66,7 @@ Web designer will create one or more prototype designs for web site. **It should
 #### Requirements
 Big changes on requirements is not allowed after this stage, until the next large revision
 
-![ux_1](https://github.com/helisz/dict/blob/master/_asserts/images/ux1.jpg)
+![ux_1](https://github.com/helisz/dict/blob/master/_asserts/images/ux1.png)
 
 ## 4. Development
 
