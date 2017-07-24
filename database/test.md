@@ -1,9 +1,9 @@
 
 
-#The head
+# The head
 
-##part 1
-###section 1
+## part 1
+### section 1
 is people thirsty?
 
 I think the answer is yes.
