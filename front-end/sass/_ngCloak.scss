@@ -1,0 +1,7 @@
+// Hide cloaked element before itself fully loaded
+// usage: <div class="text-lg" ng-cloak>{{user.name}}</div>
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+    display: none !important;
+    //@include transition(all 0.5s ease-in-out);
+}
