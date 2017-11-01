@@ -33,6 +33,7 @@
 
   unset( $_COOKIE[$v_username] );
   setcookie( $v_username, '', time() - ( 15 * 60 ) );
+  
 ?>
 
 ```
